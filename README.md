@@ -4,7 +4,7 @@
 This repository contains an AI/ML-based solution for detecting fraudulent transactions on a UPI-scale dataset. The goal is to develop a robust and scalable model capable of identifying anomalies, suspicious patterns, and fraudulent activities in real-time or through post-transaction analysis.
 
 ## Dataset Information
-This dataset consists of two files:
+This dataset consists of two files: [link to dataset](https://drive.google.com/drive/folders/1jw1_nJ_HOZC0jr--O9r2uCL0bMzslzzx?usp=drive_link)
 - **Transaction Data**: 2.3 GB (CSV format)
 - **MCC (Merchant Category Code) Data**: 99 KB (CSV format)
 
