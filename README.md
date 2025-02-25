@@ -98,6 +98,8 @@ Fraud cases constitute only **1.6%** of the dataset, making the data highly imba
 ### **Deployment with FastAPI**
 For real-time fraud detection, we use **FastAPI**, a high-performance web framework.
 
+<img src="https://github.com/user-attachments/assets/2ef1854c-f710-47fa-863a-4fc6019cf5de">
+
 ## Framework & Tools Used
 - **Data Processing**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn
