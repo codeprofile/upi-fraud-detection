@@ -51,5 +51,3 @@
 - **Patterns**: Potential for repeated failed attempts on the same card before a successful fraud transaction.  
 
 ---
-
-This descriptive analysis highlights key characteristics, patterns, and potential issues in the transactional dataset. Let me know if you'd like to explore any specific aspect further!
